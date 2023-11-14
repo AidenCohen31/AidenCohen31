@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, I'm [Your Name]! Currently pursuing a degree in Computer Science + Data Science at UW Madison, I am enthusiastic about software development and keen on exploring cloud technologies and databases. With a background as a software engineering intern at Hewlett Packard Enterprise and Epic Systems, I've transitioned from front-end/mobile development to a full-stack focus, emphasizing backend technologies. I'm also passionate about Hackathons🚀👩‍💻✨ and AI/ML/LLM 📚🎓🌐 Tech.
+
+
+
+
